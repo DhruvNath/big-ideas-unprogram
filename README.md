@@ -1,5 +1,5 @@
 # README
-[LOGO](Source/Logo.png)
+![LOGO](Logo.png)
 ## Software
 
 ### Installation of Software
@@ -36,4 +36,4 @@ Hey, if you find this software useful, as long as you retain [this notice](Licen
 Basically, in the words of the Wyld Stallyns, Be Excellent to Each Other. By using this program, you are agreeing to be excellent to each other as well as agreeing to the [Contributor Covenant](CodeofConduct.md).  Should you violate any part of these agreements, you lose your right to utilize this code! We have included for you a copy of the [Contributor Covenant](CodeofConduct.md) should you need a quick refresher.  The goal of this program and its creator are to improve the world, and negative application of this code directly impacts that end goal. As such, the Contributor Covenant was determined to have a fairly comprehensive code of conduct that covers all the possible uses of the software.
 
 ![WyldStallyns](https://gph.is/10KtNOH)
-[HypeSquadBalance](Source/hypesquad-balance-black.png)
+![HypeSquadBalance](hypesquad-balance-black.png)
