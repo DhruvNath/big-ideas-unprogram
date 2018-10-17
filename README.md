@@ -29,8 +29,8 @@ Should you want to contribute, we appreciate you! please know that this is not a
 
 ### License
 
-Hey, if you find this software useful, as long as you retain this notice you can do whatever you want with this stuff.  If we meet some day and you think this stuff is worth it, you can buy me a beer in return.
+Hey, if you find this software useful, as long as you retain [this notice](License.md) you can do whatever you want with this stuff.  If we meet some day and you think this stuff is worth it, you can buy me a beer in return.
 
 ### Code of Conduct
 
-Basically, in the words of the Wyld Stallions, Be Excellent to Each Other. By using this program, you are agreeing to be excellent to each other as well as agreeing to the Contributor Covenant.  Should you violate any part of these agreements, you lose your right to utilize this code! We have included for you a copy of the Contributor Covenant should you need a quick refresher.  The goal of this program and its creator are to improve the world, and negative application of this code directly impacts that end goal. As such, the Contributor Covenant was determined to have a fairly comprehensive code of conduct that covers all the possible uses of the software.
+Basically, in the words of the Wyld Stallions, Be Excellent to Each Other. By using this program, you are agreeing to be excellent to each other as well as agreeing to the [Contributor Covenant](Code of Conduct.md).  Should you violate any part of these agreements, you lose your right to utilize this code! We have included for you a copy of the [Contributor Covenant](Code of Conduct.md) should you need a quick refresher.  The goal of this program and its creator are to improve the world, and negative application of this code directly impacts that end goal. As such, the Contributor Covenant was determined to have a fairly comprehensive code of conduct that covers all the possible uses of the software.
