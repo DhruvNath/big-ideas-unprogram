@@ -1,28 +1,24 @@
-isFile = False
-while (isFile == False):
-    newfile = input("Enter a file please:")
-    try:
-        workFile = open(newfile)
-        isFile = True
-    except:
-        isFile = False
-        print("THAT IS NOT A FILE. PLEASE TRY AGAIN")
+def loadFile():
+    isFile = False
+    while (isFile == False):
+        newfile = input("Enter a file please:")
+        try:
+            workFile = open(newfile)
+            isFile = True
+            return workFile
+        except:
+            isFile = False
+            print("THAT IS NOT A FILE. PLEASE TRY AGAIN")
 
-count = 0
-spamSum = 0
-hiCount = 0
-for line in workFile:        
-    spam = line
-
-    perc = spam.split(' ', 1)[1]
-    perc = float(perc)
-    spamSum += perc
-    count = count + 1
-    if perc > .90:
-        hiCount = hiCount + 1
-
-totPerc = spamSum/count
-        
-
-print("The average spam confidece is:" , totPerc)
-print("The number of emails above 90% spam is:" , hiCount)
+workFile = loadFile()
+allWords = []
+for line in workFile:
+    line = line.lower()
+    line = line.split('\n')[0]
+    lineCheck = line.split(' ')
+    for word in lineCheck:
+        if word not in allWords:
+            allWords.append(word)
+            
+allWords.sort()
+print(allWords)
